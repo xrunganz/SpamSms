@@ -38,7 +38,7 @@ try:
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
       | |                                          
-      |_|  '''+W+'Creator : ./Fukur0\n\t\tYT : Jejak Cyber')
+      |_|  '''+W+'Creator : Xploit-N4HRUN G4NZ : Nahrun Ganz')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
@@ -715,9 +715,9 @@ except ImportError:
 	os.system('clear')
 	
 if __name__ == '__main__':
-	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
+	print(C+'Subscribe YT'+W+' Gua Dlu Ya Ngentot !'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
+	os.system('xdg-open https://www.youtube.com/channel/UCjlhbkatS-OKi9aTzH_2K0g')
 	sleep(7)
 	Spam()
